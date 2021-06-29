@@ -1,5 +1,10 @@
+<img src="https://img.shields.io/badge/OS-GNU%2FLinux-blue"/> <img src="https://img.shields.io/badge/Code-Python-blue"/> <img src="https://img.shields.io/badge/Code-Javascript-blue"/> <img src="https://img.shields.io/badge/Code-Vue-blue"/> <img src="https://img.shields.io/badge/Framework-Flask-blue"/> <img src="https://img.shields.io/badge/Shell-zsh-blue"/> <img src="https://img.shields.io/badge/Editor-VS%2FCode-blue"/> <img src="https://img.shields.io/badge/Tools-Poetry-blue"/> <img src="https://img.shields.io/badge/Tools-Flaskstarter-blue"/> <img src="https://img.shields.io/badge/Cloud-PythonAnywhere-blue"/>
+
 <h1>Olá, mundo!</h1>
 <h2>Quem sou</h2>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=felipebastos&show_icons=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebastos&show_icons=true"/>
+</div>
 <p>Me chamo <b>Felipe Bastos</b> e sou docente do IFCE Campus Aracati. Dou aulas na área de lógica de programação, programação orientada a objeto e desenvolvimento web. Sou formado como Tecnólogo em Telemática, pelo próprio IFCE, campus Fortaleza. Recentemente concluí Especialização em Docência no Ensino Técnico pelo SENAC Campus Santo Amaro, e nesse processo de aprendizado tenho procurado utilizar métodos ativos no processo de ensino e aprendizagem com minhas turmas.</p>
 <p>Além da área de Ensino também atuo na Extensão. E os projetos que estão em andamento são o <b>BiCiCati</b>, um projeto que visa difundir o uso da bicicleta como meio de transporte e cultura na região. Dentre as ações estão o suporte aos grupos de pedal da cidade, como manutenção de emergência durante os pedais e difusão de conhecimento sobre a legislação que abrange o ciclista.</p>
 <p>Outro projeto de extensão que tenho trabalhado é o <b>É Lógico!</b>, que tem por objetivo exercitar o raciocínio lógico por meio de questões da Olimpíada Brasileira de Informática. Para isso criei o canal no YouTube em <a href="https://www.youtube.com/Élógico">É Lógico!</a>. Mas gostei tanto de fazer lives resolvendo esses problemas da OBI que resolvi aumentar meus trabalhos no canal. Vou utilizar ele para compartilhar material e explicações que vão além do público dos projetos, talvez ajudando meus colegas docentes que tem passado por problemas similares aos meus no ensino, prensencial ou remoto.</p>
@@ -23,7 +28,6 @@
     <li>Instagram: @bicicati ou @ehlogico</li>
     <li>Twitter: @ehlogico_</li>
 </ul>
-
 
 <!--
 **felipebastos/felipebastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
