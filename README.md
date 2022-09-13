@@ -29,3 +29,4 @@
     <li>Instagram: @bicicati ou @ehlogico</li>
     <li>Twitter: @ehlogico_</li>
 </ul>
+Visualizado por <img src="https://profile-counter.glitch.me/{IngridCCastro}/count.svg" alt="Ingrid :: Visitor's Count" /> pessoas ou bots.
