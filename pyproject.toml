@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "felipebastos"
+version = "0.1.0"
+description = ""
+authors = ["Felipe Bastos Nunes <felipebastos@ifce.edu.br>"]
+readme = "README.md"
+packages = [{include = "felipebastos", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+mkdocs = "^1.5.3"
+mkdocs-material = "^9.5.1"
+mkdocstrings = "^0.24.0"
+docutils = "^0.20.1"
+pymdown-extensions = "^10.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,71 @@
+site_name: Felipe Bastos
+
+
+theme:
+  name: "material"
+  language: pt-BR
+
+  logo: assets/logo.jpeg
+  favicon: assets/favicon.jpeg
+  
+  palette: 
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Mudar para modo claro
+      primary: "black"
+      accent: "bluegrey"
+
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Mudar para modo escuro
+      primary: "black"
+      accent: "bluegrey"        
+  font:
+    text: Source Code Pro
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - search.highlight
+    - search.share
+
+plugins:
+  - search
+  - mkdocstrings
+  - blog:
+      authors_file: "{blog}/.authors.yaml"
+      blog_dir: .
+      archive_name: Arquivo
+      categories_name: Categorias
+      categories_allowed:
+        - Web
+        - Extensão
+        - Pesquisa
+        - Backend
+        - Frontend
+        - Mobile
+        - Angular
+        - Django
+        - Flask
+        - Vue
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+
+nav:
+  - Home: index.md
+
+extra:
+  consent:
+    title: Cookie consent
+    description:
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
