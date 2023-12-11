@@ -19,9 +19,18 @@ mindmap
                 Uso comercial livre
                 Permissão da Meta se > 7M usuários
             Treinável
+                Levantamento catalográfico
+                    )1 ou 2 bolsistas(
+                Levantamento de perguntas frequentes
+                    )1 ou 2 bolsistas(
         API
             Auth do IF
+                Solicitar tokens?
+                Iniciar com própria
+                    )1 ou dois bolsistas(
             Hospedagem própria
+                Definir infra
+                    )1 ou dois bolsistas(
         Interface de chat web
         Componente embarcável
             QAcadêmico?
